@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="iothub-java-device-client-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure.iothub-java-client/iothub-java-device-client/1.0.0/517d95850345d954f61f1e0587cac6808af61bf2/iothub-java-device-client-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure.iothub-java-client/iothub-java-device-client/1.0.0/97c0a3a639901bc335ce4c217fd06abd0eeeafb/iothub-java-device-client-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

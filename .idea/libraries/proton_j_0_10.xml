@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="proton-j-0.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.qpid/proton-j/0.10/61aa38985ae30079f351d5b4304d5b47a58b76cf/proton-j-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.qpid/proton-j/0.10/de80517fabb294a3c008ada4d1bea3239fdf6d4b/proton-j-0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
